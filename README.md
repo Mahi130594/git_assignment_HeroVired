@@ -27,7 +27,6 @@
      * Final Testing & Release v2
        * Tested in dev branch and Merge dev into main
        * Created Release Version 2.0: Added square root functionality & bug fixes
-### --- culatorPlus is successfully updated and released ---
 
 ## Q2: Integrating Git LFS and Handling Large Files
   * Enables the LFS support for system and configures the Git repository to use LFS - Initialize Git LFS
