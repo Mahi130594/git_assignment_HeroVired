@@ -42,7 +42,22 @@
     * Large file is downloaded
 ### --- File downloaded in the correct size (200MB in this case) ---
 
-## Q3: 
-      
+## Q3: Structured guide to implementing the Geometry Calculator in GitHub with Git branching and stash
+ * Navigate to your project directory and create, switch to the geometry-calculator branch
+ * Implemented Circle Area Calculation
+   * Created and working on the new feature branch circle area.
+   * Modified the geometry.py file and Stash the Incomplete Feature
+   * Checked the current status to confirm that the changes are stashed
+   * The output is clean working directory with no modified files.
+* Implemented Rectangle Area Calculation
+   * Created and working on the new feature branch rectangle area.
+   * Modified the geometry.py file and Stash the Incomplete Feature
+   * Checked the current status to confirm that the changes are stashed
+   * The output is clean working directory with no modified files.
+* Verified that both working directory is clean
+* Switched back to the feature/circle-area branch and Retrieve the stashed changes -> add, Commit and Push the circle Area Feature
+* Switched back to the feature/rectangle-area branch and Retrieve the stashed changes -> add, Commit and Push the rectangle Area Feature
+* Created Pull Requests and after approval, merge both pull requests into the dev branch
+* both features are tested and merged into dev and merge the dev branch into main and release the final version.
   
    
